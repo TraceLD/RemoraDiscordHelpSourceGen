@@ -1,2 +1,2 @@
 # RemoraDiscordHelpSourceGen
-Source generator based help command generator for Remora.Discord
+Source generator based help command provider for Remora.Discord
